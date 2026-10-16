@@ -1,3 +1,3 @@
 # Protech Group
-one group, one succes
-sponsor for group: [https://donate.protechvn.io.vn](here
+One Group, One Succes <br/>
+Gponsor for group: [![Sponsor Me](https://img.shields.io/badge/sponsor-Me-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://donate.protechvn.io.vn)
